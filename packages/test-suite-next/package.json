@@ -8,7 +8,7 @@
     "check": "eslint pages --ext .js,.jsx,.mjs,.cjs,.ts,.tsx,.cts,.mts --resolve-plugins-relative-to ../eslint-config"
   },
   "dependencies": {
-    "next": "12.3.4",
+    "next": "14.2.10",
     "react": "18.2.0",
     "react-dnd": "workspace:^",
     "react-dnd-examples": "workspace:^",
