@@ -1,4 +1,4 @@
-export const supportsPassive = ((): boolean => {
+export const supportsPassive = (): boolean => {
 	// simular to jQuery's test
 	let supported = false
 	try {
@@ -18,4 +18,4 @@ export const supportsPassive = ((): boolean => {
 		// do nothing
 	}
 	return supported
-})()
+}
